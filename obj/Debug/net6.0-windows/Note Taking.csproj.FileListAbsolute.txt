@@ -1,0 +1,17 @@
+C:\Users\Kinge\source\repos\Note Taking\Note Taking\bin\Debug\net6.0-windows\Note Taking.exe
+C:\Users\Kinge\source\repos\Note Taking\Note Taking\bin\Debug\net6.0-windows\Note Taking.deps.json
+C:\Users\Kinge\source\repos\Note Taking\Note Taking\bin\Debug\net6.0-windows\Note Taking.runtimeconfig.json
+C:\Users\Kinge\source\repos\Note Taking\Note Taking\bin\Debug\net6.0-windows\Note Taking.dll
+C:\Users\Kinge\source\repos\Note Taking\Note Taking\bin\Debug\net6.0-windows\Note Taking.pdb
+C:\Users\Kinge\source\repos\Note Taking\Note Taking\obj\Debug\net6.0-windows\Note Taking.csproj.AssemblyReference.cache
+C:\Users\Kinge\source\repos\Note Taking\Note Taking\obj\Debug\net6.0-windows\Note_Taking.NoteTaker.resources
+C:\Users\Kinge\source\repos\Note Taking\Note Taking\obj\Debug\net6.0-windows\Note Taking.csproj.GenerateResource.cache
+C:\Users\Kinge\source\repos\Note Taking\Note Taking\obj\Debug\net6.0-windows\Note Taking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kinge\source\repos\Note Taking\Note Taking\obj\Debug\net6.0-windows\Note Taking.AssemblyInfoInputs.cache
+C:\Users\Kinge\source\repos\Note Taking\Note Taking\obj\Debug\net6.0-windows\Note Taking.AssemblyInfo.cs
+C:\Users\Kinge\source\repos\Note Taking\Note Taking\obj\Debug\net6.0-windows\Note Taking.csproj.CoreCompileInputs.cache
+C:\Users\Kinge\source\repos\Note Taking\Note Taking\obj\Debug\net6.0-windows\Note Taking.dll
+C:\Users\Kinge\source\repos\Note Taking\Note Taking\obj\Debug\net6.0-windows\refint\Note Taking.dll
+C:\Users\Kinge\source\repos\Note Taking\Note Taking\obj\Debug\net6.0-windows\Note Taking.pdb
+C:\Users\Kinge\source\repos\Note Taking\Note Taking\obj\Debug\net6.0-windows\Note Taking.genruntimeconfig.cache
+C:\Users\Kinge\source\repos\Note Taking\Note Taking\obj\Debug\net6.0-windows\ref\Note Taking.dll
